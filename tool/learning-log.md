@@ -16,6 +16,19 @@
 * The tree is called a "scene tree" where it stores all the scenes in one place
 * There is also a thing called signals that are used to change the code inside the tree. This is very useful and also flexible for some quick changes.
 
+### 10/14/2024:
+* This week I want to start looking at tutorials and I found two videos to take notes on
+* Tutorial [one](https://www.youtube.com/watch?v=QKgTZWbwD1U&t=10s)
+* I learned more about how Godot engine develops games
+* Godot has a feature where you can alternate shapes to different sizes called Collision shapes
+* Collision shapes are an amazing feature because you can adjust size by using your mouse
+* There's also a thing called a Gizmo and it is there to make the shape adjustable for all sizes
+* Mesh Instance is when you can make any shape 3d and also realistic with lighting
+* The second [tutorial](https://www.youtube.com/watch?v=ntYjl_obUDo&list=PL9FzW-m48fn1iR6WL4mjXtGi8P4TaPIAp) shows me in a slower pace of what the first scene of Godot should look like
+* Godot doesn't necessarily need code for a beginning scene, Godot can be used by dragging the mouse and creating new components.
+* Godot feels a lot like HTML and CSS but more interactive instead of typing code
+* Godot does have the option to write restrictions towards the game but at the moment I would be focusing on how the platform works
+
 
 ### X/X/XX:
 * Text
