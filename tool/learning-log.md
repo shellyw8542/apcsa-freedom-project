@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-## Tool: **Gobot**
+## Tool: **Godot**
 
 ## Project: **Open World Game**
 
@@ -29,7 +29,7 @@
 * Godot feels a lot like HTML and CSS but more interactive instead of typing code
 * Godot does have the option to write restrictions towards the game but at the moment I would be focusing on how the platform works
 
-### 10/20/2024:
+### 10/21/2024:
 * This week I am just going to go through this [document](https://docs.godotengine.org/en/stable/getting_started/introduction/learning_new_features.html)
 * This is called a user manual and it highlights the engine concepts
 * There's a way to search up concepts as well using `F1` or searching up `Help`
@@ -40,8 +40,9 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I also wanted to look at this [portion](https://docs.godotengine.org/en/stable/getting_started/introduction/first_look_at_the_editor.html) of the website where it displays all games
 * This portion also shows the 3d versions, docks, symbols, folders, bottom panels, etc. 
 
-### X/X/XX:
-* Text
+### 10/28/2024:
+* This week I am going to try out Godot by downloading ir using this [website]()
+* I also find this [website](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html)
 
 
 <!-- 
