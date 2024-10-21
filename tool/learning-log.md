@@ -36,7 +36,9 @@
 * [This](https://docs.godotengine.org/en/stable/classes/index.html#doc-class-reference) is all the classes page
 * This reference also tells you the class role and what goes through what  
 For example: PhysicsBody2D --> Collision2D --> Node2D 
-* There is also a community page where when people need help you can always ask for help 
+* There is also a community page where when people need help you can always ask for help
+* I also wanted to look at this [portion](https://docs.godotengine.org/en/stable/getting_started/introduction/first_look_at_the_editor.html) of the website where it displays all games
+* This portion also shows the 3d versions, docks, symbols, folders, bottom panels, etc. 
 
 ### X/X/XX:
 * Text
