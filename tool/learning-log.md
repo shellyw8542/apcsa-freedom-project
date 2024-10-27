@@ -41,8 +41,14 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * This portion also shows the 3d versions, docks, symbols, folders, bottom panels, etc. 
 
 ### 10/28/2024:
-* This week I am going to try out Godot by downloading ir using this [website]()
+* This week I am going to try out Godot by downloading or using this [website](https://godotengine.org/download/windows/)
 * I also find this [website](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html)
+* After downloading it, I went back to the [tutorial](https://www.youtube.com/watch?v=QKgTZWbwD1U&t=10s) and tried to follow it
+* After getting to follow along with the tutorial, I found that Godot is really fun to use since you can interact with the objects and it seems so neat to use it
+* We can be able to use code to program the movement of the user or the character
+* The mesh component is useful for making solid shapes and adjusting the volume
+  
+
 
 
 <!-- 
