@@ -47,7 +47,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * After getting to follow along with the tutorial, I found that Godot is really fun to use since you can interact with the objects and it seems so neat to use it
 * We can be able to use code to program the movement of the user or the character
 * The mesh component is useful for making solid shapes and adjusting the volume
-* ![image]([Screenshot 2024-10-27 182159.png](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png))
+* ![image]((https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png))
 * ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182845.png))
 
   
