@@ -48,7 +48,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * We can be able to use code to program the movement of the user or the character
 * The mesh component is useful for making solid shapes and adjusting the volume
 * I have gotten to make this using the video:
-* ![image]((https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png))
+* [![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png)]
 * ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182845.png))
 * I enjoy using the platform, there are a lot of components on top of the icon
 * I believe that the more I use this tool, I would get better at the workflow
