@@ -48,10 +48,12 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * We can be able to use code to program the movement of the user or the character
 * The mesh component is useful for making solid shapes and adjusting the volume
 * I have gotten to make this using the video:
-* [![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png)]
+* For the sun positioning I was confused about how to do the angling on the sunlight
+* [![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png)
+* I circled the component that helped me and I found out that there are icons to make things more organized
 * ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182845.png))
 * I enjoy using the platform, there are a lot of components on top of the icon
-* I believe that the more I use this tool, I would get better at the workflow
+* I believe that the more I use this tool, I will get better at the workflow
 
   
 
