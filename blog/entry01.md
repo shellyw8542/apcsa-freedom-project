@@ -1,7 +1,8 @@
 # Entry 1
-##### X/X/XX
+##### 10/28/2024
 
-Text
+I am writing this blog entry to explain the 
+
 
 [Next](entry02.md)
 
