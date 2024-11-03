@@ -9,8 +9,11 @@ I plan to learn how the website Godot works and the people's feedback on it. I w
 ### Trying out the Tool
 After downloading the tool, I went back to the [tutorial](https://www.youtube.com/watch?v=QKgTZWbwD1U&t=10s) and tried to follow it. Following the tutorial, I found that Godot is fun to use since you are interacting with the objects and changing the lighting of the scenery. I even got to be able to see the coding portion of Godot to help move my ball. I was able to use the Mesh Component to help make solid shapes and adjust the volume of the shapes, however, I was confused about how to get the correct angle. That is where I was able to look at the icons and start looking at what the engine has.  
 Which in that case led me to this:  
+  
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182159.png)  
+
 I was able to circle the component that helped me adjust the sunlight and I also created this ball:  
+
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-10-27%20182845.png)  
 
 I enjoy using this platform and I do believe that I would be hopefully getting better with it.
