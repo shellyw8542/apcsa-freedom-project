@@ -15,7 +15,8 @@ I was able to circle the component that helped me adjust the sunlight and I also
 
 I enjoy using this platform and I do believe that I would be hopefully getting better with the platform of it.
 ### EDP & Next Steps
-I am currently in the stage of "Define the problem" of the Engineering Design Process, where I am trying to find the idea that I want to create and also how exactly am I going to approach this problem. My next step is to research more about my tool to help me get more familiar and inspired by what I can be able to make. During this blog, I have used the skills of Collaboration to help get me my partner into working on this project together and helping each other out. As well as the skill of How to learn as it helps me figure out the workflow and the environment of Godot. 
+I am currently in the stage of "Define the problem" of the Engineering Design Process, where I am trying to find the idea that I want to create and also how exactly am I going to approach this problem. My next step is to research more about my tool to help me get more familiar and inspired by what I can be able to make. During this blog, I have used the skills of "Collaboration" to help get my partner to work on this project together and help each other out. As well as the skill of "How to learn" as it helps me figure out the workflow and the environment of Godot.  
+
 [Next](entry02.md)
 
 [Home](../README.md)
