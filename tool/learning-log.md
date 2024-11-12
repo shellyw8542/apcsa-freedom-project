@@ -59,8 +59,22 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I enjoy using the platform, there are a lot of components on top of the icon
 * I believe that the more I use this tool, I will get better at the workflow
 
-  
+### 11/4/2024 : BLOG 1
 
+### 11/11/2024: 
+* This week I plan to look at a document, watch a video, and try it
+* For the document on the official website I wanted to look at this [page](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/02.player_input.html)
+* This document is all about player scenes and inputting actions
+* I already went through the player scenes last week but I don't mind having a recap of it
+* Character bodies are complementary to the area and rigid bodies used in the 2D game tutorial. Like rigid bodies, they can move and collide with the environment, but instead of being controlled by the physics engine, you dictate their movement.
+* Following the document
+* It leads me to this:
+![image]()
+* I finished creating my character and now it is time for me to do input actions
+* I've realized that you do not need code to move the character by using the input map feature
+* This is what I've gotten so far
+![image]()
+* For the next week, I will be continuing to follow the manual on the next document to help with my mini-game
 
 
 <!-- 
