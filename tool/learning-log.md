@@ -73,7 +73,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I finished creating my character and now it is time for me to do input actions
 * I've realized that you do not need code to move the character by using the input map feature
 * This is what I've gotten so far
-![image]()
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Godot_Input_Map.png)
 * For the next week, I will be continuing to follow the manual on the next document to help with my mini-game
 
 
