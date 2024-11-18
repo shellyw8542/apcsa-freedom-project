@@ -76,6 +76,15 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Godot_Input_Map.png)
 * For the next week, I will be continuing to follow the manual on the next document to help with my mini-game
 
+### 11/17/2024: 
+* For this week I wanted to look at the troubleshooting [document](https://docs.godotengine.org/en/stable/tutorials/troubleshooting.html)
+* I believe that the troubleshooting portion would be a helpful tool for me since there will be a lot of bugs in the future but it is good to learn now
+* There can be a lot of issues that can be relatable like "The editor or project takes a very long time to start" OR " The project works when run from the editor, but fails to load some files when running from an exported copy"
+* In the documentation, there can be a lot of issues that are in the program, but they mostly relate to the laptop, computer, CPU, or any physical thing to operate the platform
+* I believe that most of this isn't an issue for me, but just in case I need it, I'll relook at this issue.
+* I've also realized that the [3D](https://docs.godotengine.org/en/stable/tutorials/3d/index.html) page looks a lot like having all you need to know in one page
+* Godot to me feels organized and fun to deal with so I hope that it gets better and better when I start working on my project. 
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
