@@ -86,6 +86,10 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * Godot to me feels organized and fun to deal with so I hope that it gets better and better when I start working on my project. 
 
 ### 11/25/2024: 
+* For this week I wanted to look at the next portion of the 3D game [portion](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/03.player_movement_code.html)
+* In this part, this is more towards the coding instead of the interactive part
+* The component `target_velocity` is a 3D vector that combines speed and direction
+* The `_physics_process()` allows me to update the node every frame, but it is more for physic-related code. (kinematic or rigid body)
 * 
 <!-- 
 * Links you used today (websites, videos, etc)
