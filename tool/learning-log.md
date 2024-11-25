@@ -76,21 +76,22 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Godot_Input_Map.png)
 * For the next week, I will be continuing to follow the manual on the next document to help with my mini-game
 
-### 11/18/2024: 
+### 11/18 - 11/25
 * For this week I wanted to look at the troubleshooting [document](https://docs.godotengine.org/en/stable/tutorials/troubleshooting.html)
 * I believe that the troubleshooting portion would be a helpful tool for me since there will be a lot of bugs in the future but it is good to learn now
 * There can be a lot of issues that can be relatable like "The editor or project takes a very long time to start" OR " The project works when run from the editor, but fails to load some files when running from an exported copy"
 * In the documentation, there can be a lot of issues that are in the program, but they mostly relate to the laptop, computer, CPU, or any physical thing to operate the platform
-* I believe that most of this isn't an issue for me, but just in case I need it, I'll relook at this issue.
+* I believe that most of this isn't an issue for me, but I'll reexamine it just in case I need it.
 * I've also realized that the [3D](https://docs.godotengine.org/en/stable/tutorials/3d/index.html) page looks a lot like having all you need to know in one page
-* Godot to me feels organized and fun to deal with so I hope that it gets better and better when I start working on my project. 
-
-### 11/25/2024: 
+* Godot feels organized and fun to deal with, so I hope it gets better and better when I start working on my project. 
 * For this week I wanted to look at the next portion of the 3D game [portion](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/03.player_movement_code.html)
 * In this part, this is more towards the coding instead of the interactive part
 * The component `target_velocity` is a 3D vector that combines speed and direction
 * The `_physics_process()` allows me to update the node every frame, but it is more for physic-related code. (kinematic or rigid body)
-* 
+* This page is longer than I expected so I will continue to work on this next week.
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
