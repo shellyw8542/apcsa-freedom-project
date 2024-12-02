@@ -90,6 +90,8 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * The `_physics_process()` allows me to update the node every frame, but it is more for physic-related code. (kinematic or rigid body)
 * This page is longer than I expected so I will continue to work on this next week.
 
+### 12/9/2024
+* For this week, I will be contining my portion of making a [3D player movement](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/03.player_movement_code.html). 
 
 
 <!-- 
