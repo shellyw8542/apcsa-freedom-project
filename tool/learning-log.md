@@ -99,8 +99,8 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I've also found a cool feature that I can do to preview the camera's angle from the main scene
 * It's interactive and when you click on it you cause the scene to exclude or include the camera
 * The camera also has some cool features because it can help adjust the `view` component in Godot
-![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot 2024-12-08 2338.png)
-![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot 2024-12-08 2338.png)
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234120.png)
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234120.png)
 
   
 
