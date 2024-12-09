@@ -94,13 +94,15 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * This week, I will continue my portion of making a [3D player movement](https://docs.godotengine.org/en/stable/getting_started/first_3D_game/03.player_movement_code.html).
 * While tinkering I found that there can be different angles that you can use to help support the angling of the camera so there are more points of view using the `Camera3D` component
 * At first when I was following the document, I was struggling with the component `main` and getting the file of `main.tscn`
-![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot 2024-12-08 2338.png)
+  
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20233834.png)
 * I chose to use Node3D as a substitute and link it to the components in the tutorial.
 * I've also found a cool feature that I can do to preview the camera's angle from the main scene
 * It's interactive and when you click on it you cause the scene to exclude or include the camera
 * The camera also has some cool features because it can help adjust the `view` component in Godot
+
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234120.png)
-![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234120.png)
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234154.png)
 
   
 
