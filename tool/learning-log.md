@@ -103,6 +103,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234120.png)
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234154.png)
+### 12/16/2024 : BLOG 2
 
   
 
