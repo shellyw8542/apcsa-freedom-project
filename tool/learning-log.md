@@ -114,6 +114,8 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * The new component to note was the VisibleOnScreenNotifier3D, which is a pink box that will signal once the box completely leaves the screen
 * This is what my node looks like:
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20002541.png)
+* I've used the script feature to help code
+* By using VisibleOnScreenNotifier3D component you can signal the node to add a point in which I will be trying this out more in the next week 
 
 
 
