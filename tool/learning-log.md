@@ -117,7 +117,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I've used the script feature to help code
 * By using VisibleOnScreenNotifier3D component you can signal the node to add a point in which I will be trying this out more in the next week
 
-![image)(https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20003535.png)
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20003535.png)
 
 
 
