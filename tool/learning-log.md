@@ -105,7 +105,15 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202024-12-08%20234154.png)
 ### 12/16/2024 : BLOG 2
 
-  
+### 1/3/2025!!!
+* During this break I wanted to go over some more documents
+* I will be doing the [mob scene](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/04.mob_scene.html)
+* My struggle was how to get the file of mob.glb since I didn't know where the Filesystem was on
+* After following the document, I've seen the orange dots to help adjust the sizes and also help be interactive
+* The new component to note was the VisibleOnScreenNotifier3D, which is a pink box that will signal once the box completely leaves the screen
+* This is how my node looks like:
+
+
 
 <!-- 
 * Links you used today (websites, videos, etc)
