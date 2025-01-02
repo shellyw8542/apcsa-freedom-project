@@ -110,8 +110,11 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I will be doing the [mob scene](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/04.mob_scene.html)
 * My struggle was how to get the file of mob.glb since I didn't know where the Filesystem was on
 * After following the document, I've seen the orange dots to help adjust the sizes and also help be interactive
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20002353.png)
 * The new component to note was the VisibleOnScreenNotifier3D, which is a pink box that will signal once the box completely leaves the screen
-* This is how my node looks like:
+* This is what my node looks like:
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20002541.png)
+
 
 
 
