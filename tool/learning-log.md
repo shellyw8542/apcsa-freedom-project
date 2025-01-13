@@ -119,7 +119,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20003535.png)
 
-### 1/12/2025
+### 1/13/2025
 * This week, I will be working on the coding portion of the mob scene
 * Viewing the last week [documentation](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/04.mob_scene.html)
 * I've realized that Godot uses `#` for comments and when there's an error in the code it has red on it
