@@ -115,11 +115,18 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * This is what my node looks like:
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20002541.png)
 * I've used the script feature to help code
-* By using VisibleOnScreenNotifier3D component you can signal the node to add a point in which I will be trying this out more in the next week
+* By using VisibleOnScreenNotifier3D component you can signal the node to add a point in I will be trying this out more in the next week
 
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-02%20003535.png)
 
-
+### 1/12/2025
+* This week, I will be working on the coding portion of the mob scene
+* Viewing the last week [documentation](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/04.mob_scene.html)
+* I've realized that Godot uses `#` for comments and when there's an error on the code it has red on it
+![image]
+* Based on the code, and also my understanding of the document `start_position ` is a spawn point towards the player and you use the `look_at_from_position()` for randomizing the angles depending on the Y-axis
+* Using the concept of `randi_range(),` it gives random values to input for the minimum and maximum speed.
+* `queue_free()` method is when a function is gone on the instance when it is being called. 
 
 
 <!-- 
