@@ -122,10 +122,10 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 ### 1/12/2025
 * This week, I will be working on the coding portion of the mob scene
 * Viewing the last week [documentation](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/04.mob_scene.html)
-* I've realized that Godot uses `#` for comments and when there's an error on the code it has red on it
-![image]
+* I've realized that Godot uses `#` for comments and when there's an error in the code it has red on it
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-12%20213714.png)
 * Based on the code, and also my understanding of the document `start_position ` is a spawn point towards the player and you use the `look_at_from_position()` for randomizing the angles depending on the Y-axis
-* Using the concept of `randi_range(),` it gives random values to input for the minimum and maximum speed.
+* Using the `randi_range() concept,` random values are given to input for the minimum and maximum speed.
 * `queue_free()` method is when a function is gone on the instance when it is being called. 
 
 
