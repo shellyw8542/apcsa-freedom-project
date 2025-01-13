@@ -125,7 +125,8 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I've realized that Godot uses `#` for comments and when there's an error in the code it has red on it
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-12%20213714.png)
 * In this image, the red means the error and the white means the comments
-* I found it very neat and visually clear if you made a mistake in the coding. While for the comments it's a bit more convenient as well since you can just use # instead of what I normally use on java
+* I found it very neat and visually clear if you made a mistake in the coding.
+* For the comments it's a bit more convenient as well since you can just use # instead of what I normally use on Java
 * Based on the code, and also my understanding of the document `start_position ` is a spawn point towards the player and you use the `look_at_from_position()` for randomizing the angles depending on the Y-axis
 * Using the `randi_range() concept,` random values are given to input for the minimum and maximum speed.
 * `queue_free()` method is when a function is gone on the instance when it is being called. 
