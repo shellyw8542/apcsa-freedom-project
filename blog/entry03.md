@@ -17,10 +17,10 @@ By using the `VisibleOnScreenNotifier3D` you can signal the node to add a point.
 ### Coding portion of the mob scene 
 After going more in-depth with the coding portion of the same mob scene document, I realized that in Godot, comments are used with`#`, and whenever there is an error in the code, the line is highlighted in red.
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-01-12%20213714.png)  
+
 This image shows the red lines and the transparent lines. Red means an error and transparent/gray means that it is usually a comment. Overall, I found it neat and visually clear whenever I made a mistake in the code. For the comments, it's a bit more convenient as well since I can use `#` instead of what I normally use in Java, `//`  
 
 Based on the code and my understanding of the document, `start_position` is a spawn point towards the player, and you use `look_at_from_position()` to randomize the angles depending on the Y-axis. Another component to keep in mind is the `randi_range() concept,` random values are given as input for the minimum and maximum speed. Lastly, the `queue_free()` method removes an instance when it is called.
-
 That was mostly what I wanted to do over the break. It helped me understand more about the starting position and the coding portion in Godot since I've tinkered with and followed some documentation.
 
 ### EDP and Next Steps
