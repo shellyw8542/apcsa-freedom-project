@@ -131,6 +131,10 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * Using the `randi_range() concept,` random values are given to input for the minimum and maximum speed.
 * `queue_free()` method is when a function is gone on the instance when it is being called. 
 
+### 3/3/2025
+* This week's learning log, I will be doing my plan and layout of the map for my open-world game
+* I will also be trying to get Angela into a Godot collaboration linked to our Github page so it would be better for both of us
+* I will be following this [video](https://www.youtube.com/watch?v=t2fAD5wPXEk&t=82s&ab_channel=CashewOldDew)
 
 <!-- 
 * Links you used today (websites, videos, etc)
