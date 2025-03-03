@@ -136,10 +136,11 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I will also be trying to get Angela into a Godot collaboration linked to our Github page so it would be better for both of us
 * First I will make a wireframe of the layout of our project with Angela
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/wireframefp.png)
-* I will be following this [video](https://www.youtube.com/watch?v=fZ-CJIYPFMI)
-* I worked and I finally got to make a new repository with help from William and the tutorial that he recommended me to follow
+* Next I will be following this [video](https://www.youtube.com/watch?v=fZ-CJIYPFMI)
+* I worked and I finally got to make a new repository with help from William and the tutorial that he recommended me follow
 * Seems that I have to download GitHub and link the file to Godot
 * Then I helped Angela download the GitHub Desktop and file it to Godot
+* Lastly Angela will help with the design for the enemies model using our project
 
 <!-- 
 * Links you used today (websites, videos, etc)
