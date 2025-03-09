@@ -153,7 +153,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I had to go manually to the Godot file in my computer and add the file into the Godot folder, then I dragged the character that I wanted into the map
 * Then I continued to follow the tutorial until when the tutorial stopped and just landed (3:03)
 * I coded it so that the player movements are wasd and the jump velocity and speed are set.
-* ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-03-08%20232601.png)
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-03-08%20232601.png)
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
