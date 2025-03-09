@@ -147,11 +147,13 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * For this week, I will be following my MVP plan and scripting the player's movement
 * I will be following this [tutorial](https://www.youtube.com/watch?v=UpF7wm0186Q&ab_channel=GDQuest) for the movement
 * I will also be following this [tutorial](https://www.youtube.com/watch?v=s9ueeDIeJc8&ab_channel=ExploreGameDev) and this [website](https://www.kenney.nl/assets?search=characters&sort=update) to help get my model for my project
-* Something that was weird about my project was the tutorial told me that I should be able to just drag and drop the file down directly on the website and file, however it didn't work for me
-* I asked Angela if she could help me with the issue because I was thinking that it was a computer issue but it still didn't work
+* Something weird about my project was the tutorial told me that I should be able to just drag and drop the file down directly on the website and file, however, it didn't work for me
+* I asked Angela if she could help me with the issue because I thought that it was a computer issue but it still didn't work
 * Then I figured it out 
-* I had to go manually to the Godot file in my computer and add the file into the Godot folder, then I dragged my character that I wanted into the map
-* Then I continued to follow the tutorial
+* I had to go manually to the Godot file in my computer and add the file into the Godot folder, then I dragged the character that I wanted into the map
+* Then I continued to follow the tutorial until when the tutorial stopped and just landed (3:03)
+* I coded it so that the player movements are wasd and the jump velocity and speed are set.
+* 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
