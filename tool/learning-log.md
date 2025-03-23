@@ -154,6 +154,14 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * Then I continued to follow the tutorial until when the tutorial stopped and just landed (3:03)
 * I coded it so that the player movements are wasd and the jump velocity and speed are set.
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-03-08%20232601.png)
+
+### 3/17/2025 : BLOG 4
+
+### 3/24/2025
+* For this week, I will be continuing to follow the tutorial from last week (finishing things up)
+* Also checking up with Angela with the enemy.
+* I also plan to work on the map so that the player could be able to move. 
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
