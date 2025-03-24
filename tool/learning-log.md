@@ -160,7 +160,10 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 ### 3/24/2025
 * For this week, I will be continuing to follow the tutorial from last week (finishing things up)
 * Also checking up with Angela with the enemy.
-* I also plan to work on the map so that the player could be able to move. 
+* I followed on what the tutorial says on how I should code the character and how to align it with the camera
+* However, I found some mistakes with the code but I cannot figure out why (which will lead me to next week)
+* Then I worked on the spring arm and this is what I've worked on:
+  ![image]()
 
 <!-- 
 * Links you used today (websites, videos, etc)
