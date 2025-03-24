@@ -165,7 +165,8 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * Then I worked on the spring arm and this is what I've worked on:
   ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-03-23%20203609.png)
 * For next week I hope to address my issue while working on the map
-
+### 4/1/2025
+* For this week, I will be addressing my issue and importing my map 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
