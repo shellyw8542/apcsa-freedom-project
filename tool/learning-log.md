@@ -166,7 +166,13 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
   ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-03-23%20203609.png)
 * For next week I hope to address my issue while working on the map
 ### 4/1/2025
-* For this week, I will be addressing my issue and importing my map 
+* For this week, I will be addressing my issue and importing my map
+* I also found this cool [video](https://www.youtube.com/watch?v=OdWa6r1yI4U) on how to make a shooting gun in under 2 minutes
+
+
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
