@@ -175,6 +175,7 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I'd say that the most difficult thing that was happening to me was the misspellings and the outdated keywords.
 * I changed the `set_as_toplevel(true)` to `set_as_top_level(true)` since I've realized that there are some syntax errors
 * This is what my codes look like now:
+![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/godotcode.png)
 
 
 
