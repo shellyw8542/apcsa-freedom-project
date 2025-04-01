@@ -161,13 +161,21 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * For this week, I will be continuing to follow the tutorial from last week (finishing things up)
 * Also checking up with Angela with the enemy.
 * I followed what the tutorial says on how I should code the character and how to align it with the camera
-* However, I found some mistakes with the code but I cannot figure out why (which will lead me to next week)
-* Then I worked on the spring arm and this is what I've worked on:
+* However, I found some mistakes with the code, but I cannot figure out why (which will lead me to next week)
+* Then I worked on the spring arm, and this is what I've worked on:
   ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/Screenshot%202025-03-23%20203609.png)
-* For next week I hope to address my issue while working on the map
+* For next week, I hope to address my issue while working on the map
 ### 4/1/2025
 * For this week, I will be addressing my issue and importing my map
 * I also found this cool [video](https://www.youtube.com/watch?v=OdWa6r1yI4U) on how to make a shooting gun in under 2 minutes
+* I plan to fix my mistakes and then later create a shooting function as well as make the map
+* For the mistakes, I've realised that I have to change the `const` with `var` since it is inside a function
+* I also found out that the tutorial was more outdated, before it was `jump_strength`, but now it is renamed to `JUMP_VELOCITY`
+* Also this `@` was the keyword to extend the element to it would be placed into the separate folder.
+* I'd say that the most difficult thing that was happening to me was the misspellings and the outdated keywords.
+* I changed the `set_as_toplevel(true)` to `set_as_top_level(true)` since I've realized that there are some syntax errors
+* This is what my codes look like now:
+
 
 
 
