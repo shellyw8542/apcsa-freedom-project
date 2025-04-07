@@ -176,7 +176,10 @@ For example: PhysicsBody2D --> Collision2D --> Node2D
 * I changed the `set_as_toplevel(true)` to `set_as_top_level(true)` since I've realized that there are some syntax errors
 * This is what my codes look like now:
 ![image](https://github.com/shellyw8542/apcsa-freedom-project/blob/main/godotcode.png)
-
+### 4/21/2025
+* For the break and week 1, I will be working with angela to make the map
+* We discussed about the map and how it should look like
+* I plan to follow this [video](https://www.youtube.com/watch?v=JxbnStn-BIY) and have this [texture](https://www.kenney.nl/assets/platformer-kit)
 
 
 
