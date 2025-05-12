@@ -7,8 +7,20 @@
 * 
 
 ## Process
-* 
-
+* Our plan didn't go accordingly to the way we expected it to, so we planned to change our goal of the game to make it best fit for us
+* Our MVP:
+- Player movement
+- Enemies
+- Attack animation
+* Beyond MVP:
+- Health bar
+- Death screen
+- Score
+Code snippets of:
+Health bar
+Attack
+Enemies following you and attacking you
+Our main struggle was the GitHub collaboration and pulling/pushing 
 ## Conclusion
 * 
 
