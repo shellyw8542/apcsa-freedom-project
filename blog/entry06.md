@@ -13,8 +13,7 @@ Working on the elevator pitch was pretty simple. My partner decided that she wan
 ### EDP and Takeaways
 I am currently at the last step of the Engineering Design Process, where I am communicating the results. This is where I show off my project to other people. Explaining the struggle, how I overcame it, the purpose of the game, and the game’s functions and mechanics. A skill that I’ve learned from this blog is Communication. Communication helped me display my project, as well as include a small presentation explaining what should be said about my project. Communication also helped me collaborate more with my partner. It gave me an idea of who is presenting what, which also goes for the elevator pitch. Overall, I found this project rewarding and a reflective experience, as it reminded me of the past 3 years of the expo and the concept of the Freedom Project.  
 
-[Previous](entry05.md) | [Next](entry07.md)
-
+[Previous](entry05.md) 
 [Home](../README.md)
 
 
