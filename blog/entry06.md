@@ -1,5 +1,5 @@
 # Entry 6
-##### 6/2/25
+##### 6/2/2025
 
 ### Context
 In this blog, I will be explaining my in-class presentation and the expo pitch
