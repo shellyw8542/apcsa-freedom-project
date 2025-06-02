@@ -1,5 +1,5 @@
 # Entry 5
-##### 4/28/25
+##### 4/28/2025
 
 #### Context
 For this blog entry, I will be writing about my struggles and how I completed my MVP
